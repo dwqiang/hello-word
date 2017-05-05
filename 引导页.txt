@@ -2,4 +2,4 @@ http://www.jq22.com/jquery-info1435
 http://www.cnblogs.com/xing979020/p/5495860.html
 http://introjs.com/example/hello-world/index.html
 
-polyfill
+polyfill收到都是的的
